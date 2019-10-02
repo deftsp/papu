@@ -40,6 +40,7 @@ yarn-error.log
 buck-out/
 \.buckd/
 *.keystore
+!debug.keystore
 
 # fastlane
 #
@@ -63,4 +64,4 @@ chrome-user-data
 .expo
 
 # Cocoapods
-Pods/
+/ios/Pods/
