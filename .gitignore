@@ -61,3 +61,6 @@ chrome-user-data
 .eslintrc.js
 .watchmanconfig
 .expo
+
+# Cocoapods
+Pods/
