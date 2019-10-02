@@ -128,7 +128,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rndiffapp"
+        applicationId "com.papu"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
